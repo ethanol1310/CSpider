@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/ethanol1310/CSpider-be.git
+[submodule "CSpider-be"]
+	path = CSpider-be
+	url = https://github.com/ethanol1310/CSpider-be.git
+[submodule "CSpider-fe"]
+	path = CSpider-fe
+	url = https://github.com/ethanol1310/CSpider-fe.git
